@@ -1,0 +1,59 @@
+body {
+background-color: black;
+}
+
+
+#container {
+background: url(living-in-minneapolis-hipster-heavan-and-family-friendly-3.jpg);
+}
+
+#pic {
+padding: 5px;
+background-color: white;
+border: 5px white;
+height: auto;
+width: auto;
+max-height: 320px;
+max-width: 320px;
+margin: 20px;;
+}
+
+
+#content-contact {
+font: 16px Helvetica, Sans-Serif;
+margin: 10px;
+width: 320px;
+color: white;
+float: right;
+text-align: center;
+}
+
+
+
+#edu {
+color: white;
+margin: 10px;
+background-color:;
+float: left;
+
+}
+
+#work{
+color: white;
+margin: 10px;
+background-color: ;
+float: left;
+
+}
+
+#skills {
+color: white;
+margin: 10px;
+background-color:;
+float: left;
+}
+
+.d8 {
+float: right;
+}
+
