@@ -76,3 +76,16 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     color: gray;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
+
+.click {
+color: white;
+font-size: 72px;
+text-shadow: 4px 4px 4px gray;
+text-align: center;
+margin: 200px;
+}
+
+.click:hover {
+color: gray;
+text-shadow: 4px 4px 4px white;
+}
